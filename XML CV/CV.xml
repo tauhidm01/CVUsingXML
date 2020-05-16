@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="CV.xslt" type="text/xsl" ?>
+<cv>
+	<me
+		name="Mr Tauhid Mahmood"
+		address="44 Rowliff Road, High Wycombe, Buckinghamshire, HP12 3LD"
+		telephone="07891 290765"
+		email="tauhidm01@outlook.com">
+		<p>In a world of technological advancements, I am keen to learn and develop my existing skills, to be part of this exciting period. My interest in Computing has continued to grow as I have watched and been part of an ever-evolving and developing industry where I have been surrounded by technological advancements - from the growth of the internet, to the smartphone and the emergence of many social media platforms.</p>
+		<p>I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills. I have an active and dynamic approach to work and getting things done as I am determined and decisive.</p>
+	</me>
+	<education>
+		<qualification
+	establishment="Buckinghamshire New University"
+	type="Degree"
+	from="2007"
+	to="2009">
+			Bachelors<strong>First Class Honours</strong> in the degree of <strong>BSc Hons Software Engineering.</strong>
+		</qualification>
+
+		<qualification
+	establishment="Sir William Ramsay School Sixth Form"
+	type="A-Levels"
+	from="2005"
+	to="2007">
+			Distinction in <strong>Information Technology</strong><br/>
+			Merit in <strong>Business Studies</strong><br/>
+			D grade in <strong>A-Level History</strong><br/>
+		</qualification>
+		
+		<qualification
+	establishment="Sir William Ramsay School Sixth Form"
+	type="A-Levels"
+	from="2005"
+	to="2007">
+			Distinction in <strong>Information Technology</strong><br/>
+			Merit in <strong>Business Studies</strong><br/>
+			D grade in <strong>A-Level History</strong><br/>
+		</qualification>
+
+		<qualification
+			establishment="Sir William Ramsay School"
+			type="GCSEs"
+			from="1999"
+			to="2007">
+			5 in <strong>Maths</strong><br/>
+			6 in <strong>English</strong><br/>
+			C in <strong>Science</strong><br/>
+			B in <strong>History</strong><br/>
+			B in <strong>Philosophy and Ethics</strong><br/>
+			Disticntion in <strong>Business Studies</strong><br/>
+			Merit in <strong>Information Technology</strong><br/>
+		</qualification>
+		
+	</education>
+	
+	
+	<employment>
+
+		<experience
+	establishment="Rav Industries"
+	job_title="Software Engineer"
+	from="August 2009"
+	to="October 2011">
+			<description>Application Developer For Financial Services</description>
+			<achievement>Developed and designed three critical software programs for financial tracking and reporting whilst implementing AGILE Methodologies.</achievement>
+			<achievement>Optimized user effectiveness by creating a detailed feedback queue for users to discuss functionality, convenience, and effectiveness.</achievement>
+			<achievement>Oversee a team of four software developers and lead weekly discussions to brainstorm ideas in software development and to track changes made in existing programs.</achievement>
+		</experience>
+		
+		<experience
+			establishment="Sky"
+			job_title="Junior Software Developer"
+			from="November 2011"
+			to="October 2013">
+			<description>Spent 2 years at the company in which I handled many projects</description>
+			<achievement>Now TV a online entertainment streaming service.</achievement>
+			<achievement>Developed Mobile app known as Sky GO which is used for streaming television on mobile phones.</achievement>
+			<achievement>Created Sky Kids TV an application made for streaming kids tv services.</achievement>
+			<achievement>Learned a great deal whilst working at Sky for two years.</achievement>
+		</experience>
+		
+		<experience
+			establishment="Clovertech Info Ltd"
+			job_title="Python Software Developer Intern"
+			from="July 2008"
+			to="August 2008">
+			<description>Mentored by a Senior Software Engineer which helped me gain an insight into the Software Industry</description>
+			<achievement>Projects Handled: Finanical Application For HSBC Bank for mobile banking</achievement>
+			<achievement>Technologies Used- Frontend: Python Backend: MySQL Database.</achievement>
+			<achievement>Learned a great deal whilst here as I worked alongside a team of 7 Software Developers</achievement>
+			</experience>
+
+		<experience
+		establishment="Financial Software Corps"
+		job_title="Python Developer Intern"
+		from="December 2013"
+		to="Present">
+			<description>Working here on Application development and maintenance</description>
+			<achievement>Projects Handled: Indus Collection which is an online payment system, API Application for Taxi Company.</achievement>
+			<achievement>Technologies Used- Frontend: Python Backend: MySQL Database.</achievement>
+			<achievement>Learned a great deal whilst working at Clovertech and have further developed my knowledge.</achievement>
+		</experience>
+	</employment>
+	
+	<hobandint>
+		<p>I enjoy partaking in a wide range of sports in my free time such as, Football, Tennis, Swimming etc.</p>
+		<p>I am really fond of creating web based applications in my spare time in order to develop my knowledge.</p>
+		<p>Also in my spare time I particiapte in trading an hope to purchase a wide range of stocks in the future.</p>
+		<p>I enjoy reading non-fiction and fiction books as I beleive reading is a must.</p>
+	</hobandint>
+	
+	<references>
+		<contact
+			email="skarimiswr@gmail.com"
+			telephone="07802 325123"
+			relationship="IT Teacher in Sixth Form">
+			Soheila Karimi
+		</contact>
+		<contact
+			email="richardsmith01@gmail.com"
+			telephone="07898 890761"
+			relationship="Lecturer in Bucks New University">
+			Dr Richard Smith
+		</contact>
+	</references>
+</cv>
